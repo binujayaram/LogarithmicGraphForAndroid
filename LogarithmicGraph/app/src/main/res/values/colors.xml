@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="graph_grid_color">#c9c9c9</color>
+    <color name="graph_grid_color_dull">#5c5c5c</color>
+    <color name="graph_plot_color">#00BCD4</color>
+
+</resources>
